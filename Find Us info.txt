@@ -1,0 +1,282 @@
+ <div class="content">
+    <div id="locationmap_body"></div><div id="locationmap_map" style="width: 500px; height: 500px"></div><div id="locationmap_footer"><h2>Our Contact details</h2>
+
+<table border="0">
+	<tbody>
+		<tr>
+			<td><strong>Cape Peninsula University of Technology(Cape Town)</strong><br />
+			Contact person: Phila Gwiji<br />
+			Contact number: 078 186 7050 <br />
+			Email address: pgwiji@gmail.com</td>
+			
+			<td><strong>Nelson Mandela Metropolitan University</strong><br />
+			Contact person: Makaziwe Mabona<br />
+			Contact number: 079 587 1327 <br />
+			Email address: macmabona@gmail.com </td>
+		</tr>
+		<tr>
+			<td><strong>Cape Peninsula University of Technology</strong><br />
+			Contact person: Thando Wenzi<br />
+			Contact number: 071 954 7974 <br />
+			Email address: thando_weniz@yahoo.com</td>
+			
+			<td><strong>Central University of Technology</strong><br />
+			Contact person: Mafasuwe Machobane <br />
+			Contact number: 082 335 7608<br />
+			Email address: machobanem@gmail.com</td>
+		</tr>
+		<tr>
+			<td><strong>Durban University of Technology (Durban)</strong><br />
+			Contact person: Uviwe Jara<br />
+			Contact number: 072 078 3283<br />
+			Email address: uviwejara@gmail.com</td>
+
+			
+			<td><strong>Walter Sisulu University</strong><br />
+			Contact person: Unathi Duna <br />
+			Contact number: 076 937 0563<br />
+			Email address: unathiduna@gmail.com</td>
+		</tr>
+		<tr>
+			<td><strong>University of Free State</strong><br />
+			Contact person: Thandi Sibanyoni <br />
+			Contact number: 076 926 0501<br />
+			Email address: 2012098923@ufs4life.ac.za </td>
+
+			<td><strong>Tswane University of Technology(Soshanguve)</strong><br />
+			Contact person: Mpendulo Khathwane<br />
+			Contact number: 076 256 7678<br />
+			Email address: sohakha44@gmail.com</td>
+		</tr>
+		<tr>
+			<td><strong>Vaal University of Technology</strong><br />
+			Contact person: Puseletso<br />
+			Contact number: 078 778 4008 <br />
+			Email address: 	tasagp@gmail.com</td>
+			
+			<td><strong>University of Fort Hare</strong><br />
+			Contact person: Nzolo Sisilana<br />
+			Contact number: 073 286 7525<br />
+			Email address: sisilananzolo@gmail.com</td>
+		</tr>
+		<tr>
+			<td><strong>University of Witwatersrand</strong><br />
+			Contact person: Mpho Mthombeni <br />
+			Contact number: 079 955 4128<br />
+			Email address: Mphozin33@gmail.com</td>
+			
+			<td><strong>University of Johannesburg(DFC)</strong><br />
+			Contact person: Nthabiseng Mokgola<br />
+			Contact number: 076 401 1588<br />
+			Email address: nthabi.selinah18@gmail.com</td>
+			
+		</tr>
+		<tr>
+			<td><strong>Stellenbosch University</strong><br />
+			Contact person: Chumani Madondo <br />
+			Contact number: 083 735 2303<br />
+			Email address: bsokomani@live.co.za</td>
+			
+			<td><strong>University of Zululand</strong><br />
+			Contact person: Senele Zulu<br />
+			Contact number: 073 075 9383<br />
+			Email address: luzulu@gmail.com</td>
+			
+		</tr>
+		<tr>
+			<td><strong>Mangosuthu University of Technology</strong><br />
+			Contact person: Lelethu Cofa<br />
+			Contact number: 084 976 2574<br />
+			Email address: nkoliecofa@gmail.com</td>
+			
+			<td><strong>University of Johannesburg(Main Campus)</strong><br />
+			Contact person: Carryington Matha<br />
+			Contact number: 082 664 2701<br />
+			Email address: 	carryingtonmatha@gmail.com</td>
+
+		</tr>
+		<tr>
+			<td><strong>University of KwaZulu-Natal</strong><br />
+			Contact person: Bongumusa Cele <br />
+			Contact number: 073 977 5649<br />
+			Email address: njabulo4freeman@yahooo.com</td>
+			
+			
+			<td><strong>Universiy of Pretoria</strong><br />
+			Contact person: Nompumelelo Manyise<br />
+			Contact number: 076 4182030<br />
+			Email address: u14065844@tuks.ac.za</td>
+		</tr>
+		<tr>
+			<td><strong> Central University of Technology</strong><br />
+			Contact person: Maker Van Jaas <br />
+			Contact number: 078 556 3228<br />
+			Email address: @gmail.com </td>
+			
+			<td><strong>TUT Witbank Campus</strong><br />
+			Contact person: Nhlanhla Mgcina<br />
+			Contact number: 079 223 0901. <br />
+			Email address: John.makerjaaa@gmail.com </td>
+
+		</tr>
+		<tr>
+			<td><strong> University of Limpopo</strong><br />
+			Contact person: Khoza 'Chris' Lencelot <br />
+			Contact number: 071 645 6817<br />
+			Email address: cosa053@gmail.com </td>
+
+			<td><strong> University of the Western Cape</strong><br />
+			Contact person: Sikho Seyamo <br />
+			Contact number: 073 893 8174 <br />
+			Email address: skseyamo@gmail.com </td>
+
+		</tr>
+		<tr>
+
+			<td><strong> University of Cape Town(Pentec)</strong><br />
+			Contact person: Pitso Mokoena <br />
+			Contact number: 076 960 7161<br />
+			Email address: mknpit002@myuct.ac.za </td>
+
+			<td><strong>University of Johannesburg(Soweto)</strong><br />
+			Contact person: Lebohang Chuene <br />
+			Contact number: 072 052 6257<br />
+			Email address: Lebogang13813@gmail.com</td>
+
+
+		</tr>
+		<tr>
+			<td><strong>Tshwane University of Technology(Main Campus)</strong><br />
+			Contact person: Thapelo Moreole<br />
+			Contact number: 071 230 3495<br />
+			Email address: moreole.thapelo@gmail.com</td>
+
+
+
+			<td><strong>North-West University(Vaal)</strong><br />
+			Contact person: Tshokolo Mokhoke<br />
+			Contact number: 076 035 7203<br />
+			Email address: tasagp@gmail.com</td>
+
+		</tr>
+		<tr>
+			<td><strong>Sol Plaatje University</strong><br />
+			Contact person: Lebo Moitse<br />
+			Contact number: 071 007 6921<br />
+			Email address: Keolebogilemoitse@gmail.com/td>
+
+			<td><strong>North-West University(Potch)</strong><br />
+			Contact person: Nomhle Masupa<br />
+			Contact number: 078 979 6303<br />
+			Email address: masupanomhle@gmail.com</td>
+
+		</tr>
+		<tr>
+			<td><strong>University of Venda</strong><br />
+			Contact person: Lucky Monareng<br />
+			Contact number: 063 867 9036<br />
+			Email address: monarenglucky22@gmail.com</td>
+			
+			<td><strong>University of Limpopo</strong><br />
+			Contact person: Ntobeko <br />
+			Contact number: 072 068 8389<br />
+			Email address: nontobekoj.mtshai@gmail.com</td>
+			
+		</tr>
+
+		<tr>
+			<td><strong>Lephalale TVET College</strong><br />
+			Contact person: Khaya<br />
+			Contact number: 060 427 5397<br />
+			Email address: kmangxama@gmail.com</td>
+			
+			<td><strong>Capricorn TVET College</strong><br />
+			Contact person: Tshepiso  <br />
+			Contact number: 079 974 4528<br />
+			Email address: molotovinah25@gmail.com</td>
+			
+		</tr>
+		<tr>
+			<td><strong>Westville Camp</strong><br />
+			Contact person: Elizabeth Mkhabela<br />
+			Contact number: 073 465 0133<br />
+			Email address: elizmkhabela@gmail.com</td>
+			<td>
+			
+			<strong>UKZN Howard college</strong><br />
+			Contact person: Sfundo<br />
+			Contact number: 062 886 3805<br />
+			Email address: sfundo489@gmail.com</td>
+			
+		</tr>
+		<tr>
+			<td><strong>UNIZULU</strong><br />
+			Contact person:Unako<br />
+			Contact number: 081 070 3414<br />
+			Email address: Akhonakhow@gmail.com</td>
+			<td>
+			
+
+			<strong>UKZN PMB college</strong><br />
+			Contact person: Nondumiso<br />
+			Contact number: 076 327 3043<br />
+			Email address: nondumisomfaba@gmail.com</td>
+			
+		</tr>
+		<tr>
+		
+		<td><strong>Durban University of Technology (PMB)</strong><br />
+		Contact person:Pumzile<br />
+		Contact number: 079 636 9558<br />
+		Email address: zilekowandile@gmail.com</td>
+
+		<td><strong>UKZN Medical School</strong><br />
+		Contact person:Marcello Mgoduka <br />
+		Contact number: 083 522 4358<br />
+		Email address: 215006164@stu.ukzn.ac.za </td>
+		
+		</tr>
+		</tr>
+
+		<td><strong>UKZN Edgewood</strong><br />
+		Contact person:Thandeka Dlamini<br />
+		Contact number: 0834 969 956<br />
+		Email address: 214544305@stu.ukzn.ac.za </td>
+	
+		<td><strong>University of Johannesburg(APK)</strong><br />
+		Contact person:Lerato Mokoena<br />
+		Contact number: 060 328 8682<br />
+		Email address: tasagp@gmail </td>
+		
+		</tr>
+		<tr>
+		
+		<td><strong>TUT Ga-rankuwa</strong><br />
+		Contact person:Jabulani Khoza<br />
+		Contact number: 076 612 4618<br />
+		Email address: tasagp@gmail.com</td>
+		
+		<td><strong>Sol Plaatjie</strong><br />
+		Contact person:Amogelang <br />
+		Contact number: 078 692 1801<br />
+		Email address: info@mytasa.org </td>
+			
+			
+		</tr>
+		<tr>
+		
+		<td><strong>North-West University(Potch</strong><br />
+		Contact person:Phenyo <br />
+		Contact number: 079 192 6079<br />
+		Email address: pgerson79@gmail.com</td>
+		
+		<td><strong>Sol Plaatjie</strong><br />
+		Contact person:Amogelang <br />
+		Contact number: 078 692 1801<br />
+		Email address: info@mytasa.org </td>
+			
+		</tr>
+		</tr>
+		
+	</tbody>2
+</table></div>
